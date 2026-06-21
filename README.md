@@ -8,9 +8,11 @@
 
 * Advanced Microsoft Excel
 * Data Cleaning
-* Pivot Tables
+* Virtual Assistance
 * Dashboards
 * Data Visualization
+* Administrative Support
+* Data Entry
 
 🌱 Currently Learning:
 
