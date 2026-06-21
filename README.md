@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hemant Kumar 👋
 
-<!--
-**Datawithhemant-0/Datawithhemant-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🎓 B.Com Student at Delhi University (SOL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills:
+
+* Advanced Microsoft Excel
+* Data Cleaning
+* Pivot Tables
+* Dashboards
+* Data Visualization
+
+🌱 Currently Learning:
+
+* SQL
+* Python
+* Power BI
+
+📈 Goal:
+To build real-world data analytics projects and turn data into actionable insights.
+
+🔗 LinkedIn:
+[www.linkedin.com/in/hemant-kumar-832108265](http://www.linkedin.com/in/hemant-kumar-832108265)
